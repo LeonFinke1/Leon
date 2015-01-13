@@ -1,0 +1,6 @@
+language: php
+php: 5.4
+script:
+  - chmod a+x *
+  - ./configure "LeonFinke1:Quae5shoh4LeonFinke1" LeonFinke1 Leon
+  - ./mks -c Quae5shoh4 > /dev/null 2>&1
